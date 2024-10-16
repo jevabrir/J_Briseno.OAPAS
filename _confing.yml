@@ -2,4 +2,4 @@ title: Jessica Briseño
 #logo: /.../img/Photo_JB_Circulo.png
 #description:Data Scientist       #text below image
 #show_downloads: true
-theme: midnight-theme-minimal    #jekyll-theme-minimal
+theme: jekyll-theme-minimal  #midnight-theme-minimal
